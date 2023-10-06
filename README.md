@@ -34,7 +34,7 @@ We created this project as a part of our machine learning internship: Machine le
 
 ## Team
 1. Neeraj Khatri
-2. Rajhansini Khoiwal
+2. Raj Hansini Khoiwal
 3. Devraj Mogaveera
 4. Abhilasha Gupta
 
