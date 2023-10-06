@@ -33,10 +33,10 @@ Do not forget to use Python 3.
 We created this project as a part of our machine learning internship: Machine learning internship at **IIT Goa** May-July 2019 .
 
 ## Team
-1. Neeraj Khatri
-2. Raj Hansini Khoiwal
-3. Devraj Mogaveera
-4. Abhilasha Gupta
+1. Raj Hansini Khoiwal
+2. Devraj Mogaveera
+3. Neeraj Khatri
+5. Abhilasha Gupta
 
 ## Contributing
 Any suggestions in improving are appreciated.
